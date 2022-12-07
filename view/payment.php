@@ -209,7 +209,7 @@
           let message = 'Payment complete! Reference: ' + response.reference;
           alert(message);
 
-          window.location = "http://localhost/finalecomproject/finalecomproject/Actions/process_payment.php?reference=" + response.reference;
+          window.location = "../functions/process_payment.php?reference=" + response.reference;
 
  
         }
