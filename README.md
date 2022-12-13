@@ -1,4 +1,4 @@
-# My Ecommerce labs
+# E-Commerce Final Project
 <p align="center">
     Ecommerce Lab
 </p>
